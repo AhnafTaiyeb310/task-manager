@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # ✅ Task Manager
 
@@ -343,4 +343,3 @@ Contributions are welcome! Here's how to get started:
 **Built with ❤️ using Django & Next.js**
 
 </div>
-]]>
